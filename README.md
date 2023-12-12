@@ -6,6 +6,8 @@ https://vitejs.dev/guide/#scaffolding-your-first-vite-project
 
 https://placehold.co
 
+https://jsonplaceholder.typicode.com
+
 ## Packages
 
 ```shell
