@@ -2,6 +2,8 @@
 
 https://react.dev/learn
 
+https://react.dev/learn/start-a-new-react-project
+
 https://vitejs.dev/guide/#scaffolding-your-first-vite-project
 
 https://placehold.co
