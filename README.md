@@ -4,7 +4,15 @@ https://react.dev/learn
 
 https://react.dev/learn/start-a-new-react-project
 
+```sh
+npx create-next-app@latest
+```
+
 https://vitejs.dev/guide/#scaffolding-your-first-vite-project
+
+```sh
+npm create vite@latest
+```
 
 https://placehold.co
 
